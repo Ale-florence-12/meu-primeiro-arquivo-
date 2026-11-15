@@ -1,3 +1,3 @@
 # flavio de me
 
-# lua
+. lua
